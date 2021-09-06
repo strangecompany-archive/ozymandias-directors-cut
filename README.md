@@ -6,6 +6,8 @@ This archive contains the original released source code for the Director's Cut o
 
 Praised by Roger Ebert, this adaption of Percy Shelley’s famous poem was one of the first completely game-independent pieces of Machinima. It was created using _Lithtech Film Producer_, one of the very first dedicated Machinima tools.
 
+The _Director's Cut_ requires the original _Ozymandias_ source code to run, which can be found (here)[https://gitlab.com/strange-company-archive/ozymandias].
+
 ## Credits
 
 Copyright 2000 Strange Company
